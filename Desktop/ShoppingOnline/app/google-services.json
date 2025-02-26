@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121950108306",
+    "project_id": "ecommetce",
+    "storage_bucket": "ecommetce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121950108306:android:14512e0c99ded64a79044b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5EudPsDzpoHgq18_-4C8YhIVGZFm15c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
